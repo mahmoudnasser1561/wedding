@@ -1,0 +1,9 @@
+terraform/
+*.tfstate
+*.tfstate.backup
+.git/
+.gitignore
+*.md
+*.sh
+*.log
+node_modules/
