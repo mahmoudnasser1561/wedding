@@ -4,7 +4,12 @@ on:
   push:
     branches:
       - main
-
+    paths:
+      - 'src/**'
+      - 'Dockerfile'
+      - 'terraform/**'
+      - '.github/workflows/deploy.yml'
+      
 jobs:
   deploy:
     runs-on: ubuntu-latest
