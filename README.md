@@ -1,6 +1,6 @@
 # wedding
 
-<img width="2095" height="1580" alt="aws_diagram-Page-2 drawio(3)" src="https://github.com/user-attachments/assets/75112218-686f-4f87-bf41-14c9fa071068" />
+<img width="2095" height="1580" alt="aws_diagram-Page-2 drawio(4)" src="https://github.com/user-attachments/assets/f1548a82-3daf-4a9b-92dc-5c8c5b26f4cb" />
 
 <br> <br>
 
