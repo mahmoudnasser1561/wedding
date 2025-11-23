@@ -7,7 +7,6 @@ on:
     paths:
       - 'src/**'
       - 'Dockerfile'
-      - 'terraform/**'
       - '.github/workflows/deploy.yml'
       
 jobs:

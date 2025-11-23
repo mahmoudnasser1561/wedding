@@ -1,5 +1,5 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:us-east-1:217391774711:task-definition/wedding-site-task:2",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:217391774711:task-definition/wedding-site-task:8",
     "containerDefinitions": [
         {
             "name": "wedding-site-container",
@@ -30,7 +30,7 @@
     "family": "wedding-site-task",
     "executionRoleArn": "arn:aws:iam::217391774711:role/wedding-site-ecs-task-execution-role",
     "networkMode": "awsvpc",
-    "revision": 2,
+    "revision": 8,
     "volumes": [],
     "status": "ACTIVE",
     "requiresAttributes": [
@@ -67,6 +67,6 @@
     ],
     "cpu": "256",
     "memory": "512",
-    "registeredAt": "2025-11-20T18:33:52.264000+02:00",
+    "registeredAt": "2025-11-23T06:17:04.468000+02:00",
     "registeredBy": "arn:aws:iam::217391774711:user/Mahmoud"
 }
